@@ -19,7 +19,7 @@
 </template>
 <script>
     export default{
-        data(){                                                                      
+        data(){
             return{
                 list:[
                     {id:1,title:"123",now:"99.99",old:"1999",q:2},
